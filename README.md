@@ -232,17 +232,16 @@ const designStack = {
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│  🎯 BUILDING                                                     │
+│  🎯 BUILDING                                                    |
 │  ├── Isla: Multi-agent AI orchestration system                  │
-│  ├── TONYFLIX: Interactive portfolio experience                 │
 │  └── AI-native development workflows                            │
-│                                                                  │
-│  📚 EXPLORING                                                    │
+│                                                                 │
+│  📚 EXPLORING                                                   │
 │  ├── Claude MCP (Model Context Protocol)                        │
 │  ├── AWS Agent Squad patterns                                   │
 │  └── React 19 Server Components + Streaming                     │
-│                                                                  │
-│  🎓 SHARING                                                      │
+│                                                                 │
+│  🎓 SHARING                                                     │
 │  ├── Component-driven development workshops                     │
 │  ├── Design token pipeline implementations                      │
 │  └── AI/LLM architecture patterns                               │
@@ -255,7 +254,7 @@ const designStack = {
 
 > *"I specialize in stepping into ambiguous situations and creating stability. Whether it's transforming PR processes from bottlenecks to distributed models or mentoring 15+ engineers, my goal is to elevate the team's success level."*
 
-<div align="center">
+<div align="left">
 
 ### The `Architecture` Interface
 

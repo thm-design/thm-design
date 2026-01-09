@@ -31,7 +31,7 @@
 
 <br/>
 
-> **20+ years** spanning ActionScript → LAMP → MACH → AI-Native architectures. I step into ambiguous situations and create stability. Currently building multi-agent AI systems and leading frontend architecture for Fortune 500 clients.
+> **20+ years** spanning ActionScript → LAMP → MACH → AI-Native architectures. I step into ambiguous situations and create stability. Currently building multi-agent AI systems and leading engineering for Fortune 500 companies.
 
 ---
 

@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=141414&height=120&section=header&text=TONYFLIX&fontSize=72&fontColor=E50914&fontAlignY=55&desc=&descAlignY=75&descSize=20" width="100%" alt="TONYFLIX"/>
 
 <p style="margin-top:-10px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=400&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=600&lines=Principal+Engineer+%7C+Architecture+%7C+AI-Augmented+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=400&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=600&lines=Principal+Architect+and+Engineer+%7C+Agentic+Systems+%7C+AI-Augmented+Development" alt="Typing SVG" />
 </p>
 
 <p>

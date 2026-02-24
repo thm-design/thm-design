@@ -8,14 +8,14 @@
 </p>
 
 <p>
-  <a href="https://main.d2kjq1nrs0nb4c.amplifyapp.com/">
+  <a href="https://main.d2kjq1nrs0nb4c.amplifyapp.com/" target="_blank">
     <img src="https://img.shields.io/badge/Website-E50914?style=for-the-badge&logo=netflix&logoColor=white" alt="Personal Website" />
   </a>
   
-  <a href="mailto:tonymeyer.dev@gmail.com">
+  <a href="mailto:tonymeyer.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-E50914?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/tony-h-meyer">
+  <a href="https://www.linkedin.com/in/tony-h-meyer" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-E50914?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -281,6 +281,6 @@ const tonyMeyer = {
   
 <img src="https://capsule-render.vercel.app/api?type=rect&color=141414&height=60&section=footer&text=Are%20you%20still%20watching?&fontSize=20&fontColor=666666" width="100%" alt="Footer"/>
 
-<sub>Built with 🍿 and too much coffee • <a href="https://github.com/thm-design">View Source</a></sub>
+<sub>Built with 🍿 and too much coffee • <a href="https://main.d2kjq1nrs0nb4c.amplifyapp.com/" target="_blank">View WIP Personal Site</a></sub>
 
 </div>

@@ -8,14 +8,15 @@
 </p>
 
 <p>
+  <a href="https://main.d2kjq1nrs0nb4c.amplifyapp.com/">
+    <img src="https://img.shields.io/badge/Website-E50914?style=for-the-badge&logo=netflix&logoColor=white" alt="Personal Website" />
+  </a>
+  
   <a href="mailto:tonymeyer.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-E50914?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/tony-h-meyer">
     <img src="https://img.shields.io/badge/LinkedIn-E50914?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/thm-design">
-    <img src="https://img.shields.io/badge/GitHub-E50914?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 

@@ -12,8 +12,6 @@
 
 ## M2x DarkForge&trade;
 
-> *"We don't sell AI. We sell systems that work."*
-
 **DarkForge** is an autonomous software factory. It orchestrates specialized agent fleets through the **NOX Engine** — deterministic pipelines that build, test, and ship as a unified team.
 
 ---

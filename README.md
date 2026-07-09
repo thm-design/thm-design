@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/thm-design/thm-design/main/assets/hero-banner.svg" width="100%" alt="Tony Meyer — Founder & CTO, M2X Lab" />
+<img src="https://raw.githubusercontent.com/thm-design/thm-design/main/assets/hero-lockup.jpg" width="100%" alt="M2X Lab — A Foundry for the Agentic Era" />
 
 [![Website](https://img.shields.io/badge/m2xlab.com-000?style=flat-square&logo=google-chrome&logoColor=white&labelColor=262626)](https://m2xlab.com)
 [![Email](https://img.shields.io/badge/Email-000?style=flat-square&logo=gmail&logoColor=white&labelColor=262626)](mailto:tony@m2xlab.com)
@@ -14,21 +14,15 @@
 
 > *"We don't sell AI. We sell systems that work."*
 
-**DarkForge** is an autonomous software factory. It orchestrates specialized agent fleets through the **NOX Engine** — deterministic pipelines that build, test, and ship as a unified team. Automation first. Intelligence when it counts. Engineered to endure.
-
-### The NOX Engine
-
-Contract-first, validation-gated pipelines. XState v5 state machines with 7 protocol gates. Crash-proof interrupt loop resilience. Every boundary proven before runtime.
+**DarkForge** is an autonomous software factory. It orchestrates specialized agent fleets through the **NOX Engine** — deterministic pipelines that build, test, and ship as a unified team.
 
 ---
 
-## How I Work
+<img src="https://raw.githubusercontent.com/thm-design/thm-design/main/assets/harness-anatomy.jpg" width="100%" alt="Anatomy of an Agent Harness" />
 
-| | |
-|---|---|
-| **Automation First** | Deterministic pipelines do the heavy lifting. AI is deployed only where it earns its place. |
-| **Intelligence When It Counts** | LLMs and agents behind expert guardrails. Private, offline models for sensitive workloads. |
-| **Engineered to Endure** | Interrupted processes resume exactly where they left off. No state loss. No manual restarts. |
+---
+
+<img src="https://raw.githubusercontent.com/thm-design/thm-design/main/assets/computational-vs-inferential.jpg" width="100%" alt="Computational vs Inferential" />
 
 ---
 

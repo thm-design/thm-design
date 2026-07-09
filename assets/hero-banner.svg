@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" width="1200" height="560" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <!-- Blueprint grid -->
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M 48 0 L 0 0 0 48" fill="none" stroke="#1a1a1a" stroke-width="0.8"/>
+    </pattern>
+    <!-- Grid fade mask -->
+    <mask id="gridMask">
+      <rect width="1200" height="560" fill="url(#gridFade)"/>
+    </mask>
+    <radialGradient id="gridFade" cx="50%" cy="50%" r="55%">
+      <stop offset="0%" stop-color="#fff" stop-opacity="1"/>
+      <stop offset="50%" stop-color="#fff" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <!-- Signal gradient -->
+    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ff6835"/>
+      <stop offset="25%" stop-color="#9333ea"/>
+      <stop offset="50%" stop-color="#00d4ff"/>
+      <stop offset="75%" stop-color="#00ff88"/>
+      <stop offset="100%" stop-color="#f59e0b"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="560" fill="#0a0a0a"/>
+  <rect width="1200" height="560" fill="url(#grid)" mask="url(#gridMask)"/>
+
+  <!-- Corner ticks -->
+  <g stroke="#404040" stroke-width="1" opacity="0.5">
+    <line x1="32" y1="40" x2="50" y2="40"/><line x1="38" y1="32" x2="38" y2="50"/>
+    <line x1="1150" y1="40" x2="1168" y2="40"/><line x1="1162" y1="32" x2="1162" y2="50"/>
+    <line x1="32" y1="520" x2="50" y2="520"/><line x1="38" y1="508" x2="38" y2="526"/>
+    <line x1="1150" y1="520" x2="1168" y2="520"/><line x1="1162" y1="508" x2="1162" y2="526"/>
+  </g>
+
+  <!-- FIG label -->
+  <text x="38" y="72" fill="#f59e0b" font-size="11" font-weight="700" letter-spacing="0.16em" font-family="'JetBrains Mono', monospace">FIG.01</text>
+  <text x="100" y="72" fill="#737373" font-size="11" letter-spacing="0.14em" font-family="'JetBrains Mono', monospace">// FOUNDER &amp; CTO • M2X LAB</text>
+
+  <!-- M2X Lab Logo Lockup — centered -->
+  <g transform="translate(600, 0)">
+    <g transform="translate(-186, 80)">
+      <!-- Pulse ring -->
+      <circle cx="71" cy="35" r="18" stroke="#9333ea" stroke-width="0.5" opacity="0.25"/>
+      <!-- Domino tiles -->
+      <rect x="12" y="15" width="34" height="70" rx="6" fill="#fafafa"/>
+      <rect x="54" y="15" width="34" height="70" rx="6" fill="#fafafa"/>
+      <!-- Nexus purple dot -->
+      <circle cx="71" cy="35" r="9" fill="#9333ea"/>
+    </g>
+    <g transform="translate(-120, 80)">
+      <text x="0" y="62" font-size="46" font-weight="800" letter-spacing="-2.2" fill="#fafafa">M2xLab</text>
+      <text x="190" y="62" font-size="50" font-weight="400" letter-spacing="-1.5" fill="#737373">Ai</text>
+    </g>
+  </g>
+
+  <!-- NAME -->
+  <text x="600" y="200" text-anchor="middle" font-size="94" font-weight="950" letter-spacing="-5" fill="#fafafa">TONY MEYER</text>
+
+  <!-- Subtitle -->
+  <text x="600" y="235" text-anchor="middle" font-size="17" font-weight="300" letter-spacing="0.05em" fill="#a3a3a3">Founder &amp; CTO, M2X Lab • Principal Architect • Agentic Systems</text>
+
+  <!-- Signal Bar -->
+  <rect x="450" y="260" width="300" height="3" rx="1.5" fill="url(#signal)"/>
+
+  <!-- Description -->
+  <text x="600" y="300" text-anchor="middle" font-size="15" font-weight="300" fill="#a3a3a3">
+    <tspan x="600" dy="0">22 years spanning ActionScript → LAMP → MACH → AI-Native architectures.</tspan>
+    <tspan x="600" dy="24">I build autonomous software factories. Currently architecting DarkForge:</tspan>
+    <tspan x="600" dy="24">multi-agent orchestration powered by the NOX Engine.</tspan>
+  </text>
+
+  <!-- Stats row -->
+  <g transform="translate(600, 390)">
+    <!-- Divider line above -->
+    <line x1="-500" y1="-30" x2="500" y2="-30" stroke="#1a1a1a" stroke-width="1"/>
+
+    <g transform="translate(-400, 0)">
+      <text x="0" y="0" text-anchor="middle" font-size="36" font-weight="800" fill="#fafafa">22</text>
+      <text x="0" y="20" text-anchor="middle" font-size="10" font-weight="600" letter-spacing="0.14em" fill="#737373" font-family="'JetBrains Mono', monospace">YEARS ENG</text>
+    </g>
+
+    <g transform="translate(-200, 0)">
+      <text x="0" y="0" text-anchor="middle" font-size="36" font-weight="800" fill="#fafafa">10+</text>
+      <text x="0" y="20" text-anchor="middle" font-size="10" font-weight="600" letter-spacing="0.14em" fill="#737373" font-family="'JetBrains Mono', monospace">AGENT PROFILES</text>
+    </g>
+
+    <g transform="translate(0, 0)">
+      <text x="0" y="0" text-anchor="middle" font-size="36" font-weight="800" fill="#fafafa">7</text>
+      <text x="0" y="20" text-anchor="middle" font-size="10" font-weight="600" letter-spacing="0.14em" fill="#737373" font-family="'JetBrains Mono', monospace">PIPELINE GATES</text>
+    </g>
+
+    <g transform="translate(200, 0)">
+      <text x="0" y="0" text-anchor="middle" font-size="36" font-weight="800" fill="#f59e0b">100%</text>
+      <text x="0" y="20" text-anchor="middle" font-size="10" font-weight="600" letter-spacing="0.14em" fill="#737373" font-family="'JetBrains Mono', monospace">CONTRACT-DRIVEN</text>
+    </g>
+
+    <g transform="translate(400, 0)">
+      <text x="0" y="0" text-anchor="middle" font-size="36" font-weight="800" fill="#fafafa">24/7</text>
+      <text x="0" y="20" text-anchor="middle" font-size="10" font-weight="600" letter-spacing="0.14em" fill="#737373" font-family="'JetBrains Mono', monospace">FLEET UPTIME</text>
+    </g>
+  </g>
+
+  <!-- Bottom label -->
+  <line x1="300" y1="480" x2="900" y2="480" stroke="#1a1a1a" stroke-width="1"/>
+  <text x="600" y="505" text-anchor="middle" font-size="9" font-weight="500" letter-spacing="0.22em" fill="#404040" font-family="'JetBrains Mono', monospace">AUTOMATION FIRST • INTELLIGENCE WHEN IT COUNTS • ENGINEERED TO ENDURE</text>
+
+  <!-- Bottom signal accent -->
+  <rect x="300" y="540" width="600" height="1" fill="url(#signal)" opacity="0.3"/>
+</svg>

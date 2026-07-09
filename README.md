@@ -26,7 +26,27 @@
 
 ---
 
-> *"I step into ambiguous situations and create stability. The best architecture enables autonomy."*
+## Principal Architect, M2XLAB Ai
+
+**Jan 2026 — Present**
+
+**Product Discovery, Delivery & Engineering Leadership:**
+- Lead technical discovery, scoping, and architecture for clients from startup to enterprise
+- Drive delivery execution as hands-on technical lead, bridging product vision with engineering reality
+- Establish engineering standards, contract-first development workflows, and component-driven architecture
+
+**Agentic Systems & AI Software Factory:**
+- Architected a 10-agent software factory operating via deterministic, hook-driven state machines
+- Loop and harness engineering patterns for deterministic multi-agent execution with constraint guardrails
+- Built conversational AI surface driving the full agent fleet as a single interface for software factory operations
+
+**Currently Working On:**
+- OSINT + narrative defence
+- Fine-tuned open weight models for bespoke use-cases
+- Workflow automation for financial services
+- Offline and secure AI agent deployments using Docker, Llama.cpp, Ollama, and local open weight models
+- MCP-driven UI component rendering pipeline
+- Agent skills authoring and technical content publishing
 
 ---
 

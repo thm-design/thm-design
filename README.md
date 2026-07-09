@@ -1,24 +1,14 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!-- HERO BANNER — M2X v3 Design System                    -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
 <img src="https://raw.githubusercontent.com/thm-design/thm-design/main/assets/hero-banner.svg" width="100%" alt="Tony Meyer — Founder & CTO, M2X Lab" />
-
-<!-- INLINE SIGNAL BAR -->
-<svg width="280" height="4" viewBox="0 0 280 4" xmlns="http://www.w3.org/2000/svg">
-  <defs><linearGradient id="s1" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#ff6835"/><stop offset="25%" stop-color="#9333ea"/><stop offset="50%" stop-color="#00d4ff"/><stop offset="75%" stop-color="#00ff88"/><stop offset="100%" stop-color="#f59e0b"/></linearGradient></defs>
-  <rect width="280" height="4" rx="2" fill="url(#s1)"/>
-</svg>
 
 <br/>
 
-[![Website](https://img.shields.io/badge/m2xlab.com-000000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB4PSIxMiIgeT0iMTUiIHdpZHRoPSIzNCIgaGVpZ2h0PSI3MCIgcng9IjYiIGZpbGw9IiNmYWZhZmEiLz48cmVjdCB4PSI1NCIgeT0iMTUiIHdpZHRoPSIzNCIgaGVpZ2h0PSI3MCIgcng9IjYiIGZpbGw9IiNmYWZhZmEiLz48Y2lyY2xlIGN4PSI3MSIgY3k9IjM1IiByPSI5IiBmaWxsPSIjOTMzM2VhIi8+PC9zdmc+&logoColor=white&labelColor=262626&color=000000)](https://m2xlab.com)
-[![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white&labelColor=262626)](mailto:tony@m2xlab.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white&labelColor=262626)](https://www.linkedin.com/in/tony-h-meyer)
+[![Website](https://img.shields.io/badge/m2xlab.com-000?style=flat-square&logo=google-chrome&logoColor=white&labelColor=262626)](https://m2xlab.com)
+[![Email](https://img.shields.io/badge/Email-000?style=flat-square&logo=gmail&logoColor=white&labelColor=262626)](mailto:tony@m2xlab.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=linkedin&logoColor=white&labelColor=262626)](https://www.linkedin.com/in/tony-h-meyer)
 
-<sub style="color:#737373; font-family:'JetBrains Mono',monospace; font-size:10px; letter-spacing:0.1em">PNW // DEPLOYED GLOBALLY</sub>
+<sub>PNW // DEPLOYED GLOBALLY</sub>
 
 </div>
 
@@ -34,56 +24,26 @@
 
 ## // The Forge: What I'm Building
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**01. DarkForge**
-
-Multi-agent orchestration platform. Deterministic guardrails before runtime. Agent fleets operate as a unified team. Zero-state-loss durability. FAANG rigor at startup speed.
-
-*In production*
-
-</td>
-<td width="33%" valign="top">
-
-**02. NOX Engine**
-
-The deterministic pipeline engine underneath DarkForge. Contract-first, validation-gated, XState v5 state machines. 7 protocol gates. Crash-proof interrupt loop resilience.
-
-*v5.4 active*
-
-</td>
-<td width="33%" valign="top">
-
-**03. NOX Obs Dashboard**
-
-Live observability canvas for the DarkForge pipeline. Real-time run tracking, kanban-native project management, cron-driven aggregators. Next.js 14 + Amplify Gen 2.
-
-*[Live on Amplify](https://github.com/M2xLab/nox-obs-dashboard)*
-
-</td>
-</tr>
-</table>
+| | | |
+|:---|:---|:---|
+| **01. DarkForge** | **02. NOX Engine** | **03. Dashboard** |
+| Multi-agent orchestration platform. Deterministic guardrails before runtime. FAANG rigor at startup speed. | The pipeline engine underneath DarkForge. XState v5 state machines. 7 protocol gates. Crash-proof resilience. | Live observability for the DarkForge pipeline. Real-time run tracking, kanban-native PM, cron aggregators. |
+| *In production* | *v5.4 active* | *[View repo](https://github.com/M2xLab/nox-obs-dashboard)* |
 
 ---
 
 ## // M2X Lab Products
 
-<table>
-<tr>
-<td width="25%"><strong>M2X Chimera</strong><br/><sub>Expressive system avatar</sub></td>
-<td width="25%"><strong>M2X AIR</strong><br/><sub>Personal offline agents</sub></td>
-<td width="25%"><strong>Trail Companion</strong><br/><sub>iOS/Android hiking app</sub></td>
-<td width="25%"><strong>Estima AI</strong><br/><sub>Architectural estimation</sub></td>
-</tr>
-<tr>
-<td><strong>Agent Fleets</strong><br/><sub>Team-scale orchestration</sub></td>
-<td><strong>AirList</strong><br/><sub>Smart shopping companion</sub></td>
-<td><strong>Resolver</strong><br/><sub>Conflict resolution tool</sub></td>
-<td><strong>Storymance</strong><br/><sub>Interactive storytelling</sub></td>
-</tr>
-</table>
+| Product | Description |
+|:--------|:------------|
+| **M2X Chimera** | Expressive system avatar |
+| **M2X AIR** | Personal offline agents |
+| **Trail Companion** | iOS/Android hiking app |
+| **Estima AI** | Architectural estimation tool |
+| **Agent Fleets** | Team-scale orchestration |
+| **AirList** | Smart shopping companion |
+| **Resolver** | Conflict resolution tool |
+| **Storymance** | Interactive storytelling |
 
 ---
 
@@ -91,49 +51,22 @@ Live observability canvas for the DarkForge pipeline. Real-time run tracking, ka
 
 | # | Principle | |
 |---|-----------|----|
-| 01 | **Automation First** | Deterministic, testable, crash-proof pipelines do most of the work. Powerful, predictable, cheap to run. AI is deployed only where it earns its place. |
-| 02 | **Intelligence When It Counts** | LLMs and agents only when they unlock something automation cannot — behind expert guardrails. Private, offline models for every sensitive workload. |
-| 03 | **Engineered to Endure** | Durable execution means interrupted processes resume exactly where they left off. No state loss. No manual restarts. Every boundary contract-first, validation-gated. |
+| 01 | **Automation First** | Deterministic, testable, crash-proof pipelines do most of the work. AI is deployed only where it earns its place. |
+| 02 | **Intelligence When It Counts** | LLMs and agents only when they unlock something automation cannot — behind expert guardrails. Private, offline models for sensitive workloads. |
+| 03 | **Engineered to Endure** | Durable execution means interrupted processes resume exactly where they left off. No state loss. No manual restarts. |
 
 ---
 
 ## // Technology
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### AI-Native Stack
-
-```typescript
-const ai = {
-  engine:      "NOX Engine v5.4",
-  state:       "XState v5",
-  fleet:       "Hermes Agent Fleet (10 profiles)",
-  models:      ["DeepSeek V4 Pro", "Claude API"],
-  infra:       "AWS Amplify Gen 2",
-  protocols:   ["MCP", "Contract-First", "7-Gate Pipeline"],
-};
-```
-
-</td>
-<td valign="top" width="50%">
-
-### Frontend Architecture
-
-```typescript
-const frontend = {
-  framework:   "Next.js 14 App Router",
-  ui:          ["Tailwind CSS", "shadcn/ui"],
-  data:        "TanStack Query",
-  testing:     ["Vitest", "Playwright"],
-  design:      "M2X v3 Design System",
-};
-```
-
-</td>
-</tr>
-</table>
+| AI-Native Stack | Frontend Architecture |
+|:---|:---|
+| `NOX Engine v5.4` | `Next.js 14 App Router` |
+| `XState v5` | `Tailwind CSS + shadcn/ui` |
+| `Hermes Agent Fleet (10 profiles)` | `TanStack Query` |
+| `DeepSeek V4 Pro, Claude API` | `Vitest, Playwright` |
+| `AWS Amplify Gen 2` | `M2X v3 Design System` |
+| `MCP, Contract-First, 7-Gate Pipeline` | `TypeScript` |
 
 ---
 
@@ -153,7 +86,7 @@ const frontend = {
 | | Achievement | Detail |
 |:--:|-------------|--------|
 | 1 | **71% Performance Gain** | Disney Movie Insiders TTI: 7s to 2s for 2.5M+ members |
-| 2 | **Zero-Downtime CIAM Migration** | Arc'teryx ForgeRock to Okta, 1.2M+ users |
+| 2 | **Zero-Downtime CIAM** | Arc'teryx ForgeRock to Okta, 1.2M+ users |
 | 3 | **PR Process Revolution** | 2-4 day bottleneck to sub-1-day distributed model |
 | 4 | **Design Token Automation** | 95% reduction in design-dev coordination cycles |
 | 5 | **Multi-Agent Architecture** | DarkForge: production-grade agentic workflows |
@@ -185,14 +118,6 @@ interface Architect {
 
 <div align="center">
 
-<!-- FOOTER SIGNAL BAR -->
-<svg width="280" height="4" viewBox="0 0 280 4" xmlns="http://www.w3.org/2000/svg">
-  <defs><linearGradient id="s2" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#ff6835"/><stop offset="25%" stop-color="#9333ea"/><stop offset="50%" stop-color="#00d4ff"/><stop offset="75%" stop-color="#00ff88"/><stop offset="100%" stop-color="#f59e0b"/></linearGradient></defs>
-  <rect width="280" height="4" rx="2" fill="url(#s2)"/>
-</svg>
-
-<br/>
-
-<sub style="color:#737373; font-family:'JetBrains Mono',monospace; font-size:10px; letter-spacing:0.1em">M2X LAB INC. &copy; 2026 &bull; DarkForge&trade; &bull; NOX&trade; &bull; Built from the PNW. Deployed globally.</sub>
+<sub>M2X LAB INC. &copy; 2026 &bull; DarkForge&trade; &bull; NOX&trade; &bull; Built from the PNW. Deployed globally.</sub>
 
 </div>
